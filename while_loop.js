@@ -1,3 +1,4 @@
+// Using while loop to iterate over an array
 let first_nums = 0;
 let my_numbers = [2,9,1,5,8,10,34];
 
